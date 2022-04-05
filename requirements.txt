@@ -1,0 +1,8 @@
+pandas
+jupyter
+jupyterlab
+requests
+numpy
+scipy
+python-osrsapi
+
